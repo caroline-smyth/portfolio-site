@@ -1,0 +1,15 @@
+.date {
+  color: white;
+}
+
+.header {
+  display: flex;
+  z-index: 100;
+  margin-left: 4rem;
+  margin-top: 4rem;
+  gap: 1rem;
+}
+
+.footer {
+  height: 3rem;
+}

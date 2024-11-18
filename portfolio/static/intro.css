@@ -1,0 +1,19 @@
+.intro-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 4rem;
+  margin-top: 6rem;
+}
+
+.name {
+  font-size: 48px;
+  letter-spacing: 0.2px;
+  margin-bottom: 24px;
+  font-family: "AdvercaseRegular";
+  color: rgb(0, 0, 128);
+}
+
+.intro {
+  font-size: 24px;
+  width: 600px;
+}
