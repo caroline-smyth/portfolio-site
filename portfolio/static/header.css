@@ -2,14 +2,15 @@
   color: white;
 }
 
-.header {
+.header{
   display: flex;
-  z-index: 100;
+  justify-content: space-between;
+  width: 25rem;
   margin-left: 4rem;
-  margin-top: 4rem;
-  gap: 1rem;
+  margin-top: 3rem;
+  font-size: 24px;
+  
 }
-
 .footer {
   height: 3rem;
 }
